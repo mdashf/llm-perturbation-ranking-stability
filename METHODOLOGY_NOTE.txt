@@ -1,0 +1,1 @@
+Block A was frozen and acquired before analysis. Four production workers were jointly audited against the frozen master. The canonical integrated dataset contains 1,000 observations. All Block-A source items are predeclared VALID. Validation groups all observations sharing a question_id. No response-derived feature is used in the baseline predictor.

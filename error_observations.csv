@@ -1,0 +1,11 @@
+question_id,benchmark,model_tag,condition,reference_answer,parsed_answer
+GSM_809,GSM8K,GPT_OSS_20B,paraphrase,50,100
+GSM_894,GSM8K,GPT_OSS_20B,paraphrase,26,20
+ARC_MDSA_2007_8_15,ARC-Challenge,Qwen3_8_27B,formatting,C,D
+ARC_MDSA_2007_8_15,ARC-Challenge,GPT_OSS_120B,baseline,C,D
+ARC_MDSA_2007_8_15,ARC-Challenge,GPT_OSS_120B,formatting,C,D
+GSM_894,GSM8K,GPT_OSS_120B,baseline,26,50
+GSM_894,GSM8K,GPT_OSS_120B,formatting,26,50
+GSM_894,GSM8K,GPT_OSS_120B,instruction_position,26,50
+GSM_894,GSM8K,GPT_OSS_120B,irrelevant_context,26,50
+GSM_894,GSM8K,GPT_OSS_120B,paraphrase,26,50
